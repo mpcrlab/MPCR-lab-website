@@ -2,7 +2,7 @@
 title:          William Edward Hahn, Ph.D.
 username:       William-E-Hahn
 image:          /uploads/avatars/William-Hahn.JPG
-bio:            Founder and Co-Principal Investigator (Co-PI) <br> Assistant Professor <br> Program Director of the Future of Intelligence Initiative # Co-Director
+bio:            Founder and Co-Principal Investigator (Co-PI) <br> Associate Professor <br> Program Director of the Future of Intelligence Initiative # Co-Director
 email:          # whahn@fau.edu
 website:        https://www.mpcrlab.com
 github:         https://github.com/williamedwardhahn # https://github.com/
@@ -30,8 +30,7 @@ redirect_to: https://hahn.ai/
 # Contact Information
 Department of Mathematical Sciences  
 Center for Complex Systems and Brain Sciences  
-Center for the Future Mind  
-Department of Physics  
+Center for the Future Mind   
 777 Glades Road  
 Boca Raton, FL 33431-0991  
 {{ page.building }}  
