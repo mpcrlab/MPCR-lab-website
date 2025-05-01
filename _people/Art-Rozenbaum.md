@@ -6,7 +6,7 @@ bio:            Affiliate Researcher
 email:          #
 website:        #
 laboratory:     Machine Perception and Cognitive Robotics Lab (MPCR)
-active:         false
+active:         true
 alumni:         false
 contact:        false
 faculty:        false
